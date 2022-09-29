@@ -1,0 +1,2 @@
+# LSlaravel
+laravel template work
